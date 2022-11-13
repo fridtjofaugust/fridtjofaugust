@@ -8,4 +8,4 @@
 
   
 <!-- <div align="center"> -->
-<img align="center" width="400" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/r.jpg" alt="Awesome Badge"/>
+<img align="center" width="1000" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/r.jpg" alt="Awesome Badge"/>
