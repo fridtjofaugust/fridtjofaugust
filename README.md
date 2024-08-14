@@ -1,6 +1,6 @@
 ## About me
 
-Working as a Junior Consultant @ Innofactor Norway
+Working as a Solution Consultant @ Innofactor Norway
 
 <img align="center" width="370" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/innofactorlogo.png" alt="Awesome"/>
 
