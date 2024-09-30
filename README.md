@@ -4,7 +4,7 @@ Working as a Solution Consultant @ Innofactor Norway
 
 <img align="center" width="370" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/innofactorlogo.png" alt="Awesome"/>
 
-## Projects
+## IaC
 
 <a href="https://www.terraform.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" height="100"/> </a> 
 
