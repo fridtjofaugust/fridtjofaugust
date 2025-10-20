@@ -1,8 +1,8 @@
 ## About me
 
-Working as a Solution Consultant @ Innofactor Norway
+Working as a Senior Consultant at Advania Norway.
 
-<img align="center" width="370" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/Advania.png" alt="Awesome"/>
+<img align="center" width="350" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/Advania.png" alt="Awesome"/>
 
 ## IaC
 
