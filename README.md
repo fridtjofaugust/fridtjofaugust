@@ -2,7 +2,7 @@
 
 Working as a Solution Consultant @ Innofactor Norway
 
-<img align="center" width="370" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/innofactorlogo.png" alt="Awesome"/>
+<img align="center" width="370" src="https://github.com/fridtjofaugust/fridtjofaugust/blob/main/Pictures/" alt="Awesome"/>
 
 ## IaC
 
